@@ -2,4 +2,4 @@
 #Summarize city mpg 
 #Author Justin Ehly
 
-summarize(mpg@cty)
+summarize(mpg$cty)
